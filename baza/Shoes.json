@@ -1,0 +1,90 @@
+[
+	{
+		"idShoes" : 1,
+		"models" : "Nike Dunk Low Safari Swoosh",
+		"value" : "5200",
+		"size" : "43",
+		"img" : "1 male.jpg",
+		"sex" : "male"
+	},
+	{
+		"idShoes" : 2,
+		"models" : "Nike Dunk Low Retro ",
+		"value" : "5200",
+		"size" : "43",
+		"img" : "2 male.jpg",
+		"sex" : "male"
+	},
+	{
+		"idShoes" : 3,
+		"models" : "Nike Dunk Low Kumquat ",
+		"value" : "5200",
+		"size" : "43",
+		"img" : "3 male.jpg",
+		"sex" : "male"
+	},
+	{
+		"idShoes" : 4,
+		"models" : " Nike WAFFLE ONE ",
+		"value" : "3200",
+		"size" : "43",
+		"img" : "4 male.jpg",
+		"sex" : "male"
+	},
+	{
+		"idShoes" : 5,
+		"models" : "Nike RENEW RIDE 3 ",
+		"value" : "2750",
+		"size" : "43",
+		"img" : "5 male.jpg",
+		"sex" : "male"
+	},
+	{
+		"idShoes" : 6,
+		"models" : "Adidas Superstar ",
+		"value" : "1800",
+		"size" : "43",
+		"img" : "1 female.jpg",
+		"sex" : "female"
+	},
+	{
+		"idShoes" : 7,
+		"models" : " Nike W REVOLUTION 6 ",
+		"value" : "2100",
+		"size" : "43",
+		"img" : "2 female.jpg",
+		"sex" : "female"
+	},
+	{
+		"idShoes" : 8,
+		"models" : "Nike SB ZOOM BLAZER MID",
+		"value" : "2300",
+		"size" : "43",
+		"img" : "3 female.jpg",
+		"sex" : "female"
+	},
+	{
+		"idShoes" : 9,
+		"models" : "JORDAN WMNS AIR JORDAN 1 ELEVATE LOW  ",
+		"value" : "3900",
+		"size" : "43",
+		"img" : "4 female.jpg",
+		"sex" : "female"
+	},
+	{
+		"idShoes" : 10,
+		"models" : "Nike WMNS NIKE JUNIPER TRAIL",
+		"value" : "2100",
+		"size" : "43",
+		"img" : "5 female.jpg",
+		"sex" : "female"
+	},
+	{
+		"idShoes" : null,
+		"models" : null,
+		"value" : null,
+		"size" : "",
+		"img" : null,
+		"sex" : ""
+	}
+]
